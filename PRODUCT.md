@@ -15,7 +15,7 @@ A professional portfolio for Ishika Chowdhury: HR at Koundinyasa Technologies Pv
 ## Content rules
 
 - Include only: current work and company, graduation (BCA), master's (MCA in Data Science), and two projects (Finger Detection System, ETL Data Pipeline for Sales Analysis).
-- Include no school-level education. The only place named is "North Kolkata" as hometown.
+- Include no school-level education. The only place named is "Kolkata" as hometown.
 - No phone number anywhere on the site. Public contact is email only; LinkedIn URL not yet provided.
 - Never invent dates, results, links or metrics. The MCA institution and years, and the HR start date, have not been provided and are left out.
 - Anything else from the old resume (courses, internship, interests) is left out unless the owner asks for it.

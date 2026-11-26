@@ -1,6 +1,6 @@
 # Ishika Chowdhury — Portfolio
 
-A clean, single-page professional portfolio: current HR role, education (MCA in Data Science, BCA), two projects, skills and contact. Plain HTML and CSS with no JavaScript, no build step and no external requests.
+A clean, single-page professional portfolio: current HR role, data analytics internship, education (MCA in Data Science, BCA), two projects, skills and contact. Plain HTML and CSS with no JavaScript, no build step and no external requests.
 
 ## Run it locally
 
